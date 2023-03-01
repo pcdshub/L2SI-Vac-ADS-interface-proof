@@ -1,0 +1,29 @@
+reading-plc
+-----------
+
+.. toctree::
+    :maxdepth: 2
+    :caption: reading-plc
+
+    reading-plc_pragmas
+    reading-plc_nc
+    reading-plc_boxes
+    reading-plc_links
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: reading_plc_proj
+
+    reading-plc_reading_plc_proj_summary
+    reading-plc_reading_plc_proj_epics
+    reading-plc_reading_plc_proj_source
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
